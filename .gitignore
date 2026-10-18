@@ -1,0 +1,15 @@
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de configuración sensibles
+.env
+.env.*
+
+# Archivos del editor
+.vscode/
+.idea/
+
+# Archivo vacío que no utilizaremos todavía
+generador_li.rb
